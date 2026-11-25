@@ -1,0 +1,5 @@
+{
+  "name": "gta-in-claude",
+  "owner": { "name": "alexisdelestre" },
+  "plugins": [{ "name": "bitume", "source": "./" }]
+}
